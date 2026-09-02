@@ -13,7 +13,7 @@ A colorful and interactive weather dashboard built using **Python, Pandas, Matpl
 * 📥 Download filtered data
 * 🎨 Interactive and colorful dashboard
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
 * Python
 * Streamlit
